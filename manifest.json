@@ -1,16 +1,6 @@
 {
   "lists": [
     {
-      "file": "alexa_top_1m.csv",
-      "identifier": "alexa_1m",
-      "display_name": "Alexa Top 1 Million Domains",
-      "headers": [
-        "x",
-        "entry"
-      ],
-      "format": "hostname"
-    },
-    {
       "file": "disposable_email_providers.txt",
       "identifier": "disposable_email_providers",
       "display_name": "Disposable (or Temporary) Email Providers",
